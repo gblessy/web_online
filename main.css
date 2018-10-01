@@ -1,7 +1,6 @@
 body {
 	background-color: black;
 	background-image: linear-gradient(#333, indigo);
-	/*background-image: url("http://img.archiexpo.com.ru/images_ae/photo-g/67453-3698289.jpg");*/
 	color: white;
 	text-shadow: 0.5px 1px black;
 }
