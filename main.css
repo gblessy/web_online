@@ -8,3 +8,14 @@ body {
 a {
 	color: yellowgreen;
 }
+
+nav.navbar {
+	background-color: lightgrey;
+	text-shadow: 0 0 black;
+	color: darkgrey;
+}
+
+.navbar-default .navbar-nav>li>a {
+	text-size: 1.2em;
+	color: #614a7d;
+}
