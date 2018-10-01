@@ -1,3 +1,7 @@
+html, body {
+	height:100%;
+}
+
 body {
 	background-color: black;
 	background-image: linear-gradient(#333, indigo);
@@ -18,4 +22,8 @@ nav.navbar {
 .navbar-default .navbar-nav>li>a {
 	text-size: 1.2em;
 	color: #614a7d;
+}
+
+.container {
+
 }
